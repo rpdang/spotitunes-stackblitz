@@ -1,0 +1,27 @@
+.roundedCorners {
+  border-radius: 20px;
+}
+
+.playTextFont {
+  font-family: Helvetica, sans-serif;
+}
+
+.playDroppableList {
+  border: 1px solid darkslategray;
+}
+
+.audioButton {
+  border: 1px solid black;
+}
+
+.playContainerBg {
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("../components/img/notes.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

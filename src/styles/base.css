@@ -1,0 +1,11 @@
+.primaryButton {
+  background-color: #21d192;
+}
+
+.exitButton {
+  background-color: rgb(79, 79, 110);
+}
+
+.cardHover:hover {
+  transform: scale(1.05);
+}

@@ -1,0 +1,13 @@
+.dashboardNavBar {
+  background-color: #c05a92;
+}
+
+.infoBtn {
+  background-color: rgb(233, 153, 49);
+}
+
+.signOutBtn {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}

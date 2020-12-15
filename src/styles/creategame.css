@@ -1,0 +1,22 @@
+.creategamebase {
+  box-sizing: border-box;
+  flex-direction: row;
+  display: flex;
+}
+.elem {
+  display: inline-block;
+  padding: 20px;
+}
+
+.playlist {
+  margin-top: 53px;
+  margin-right: 10px;
+  width: auto;
+}
+
+.search {
+  width: fit-content;
+}
+img[disabled] {
+  opacity: 0.5;
+}

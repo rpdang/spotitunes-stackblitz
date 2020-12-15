@@ -1,0 +1,10 @@
+export const TOKEN = "TOKEN";
+export const USER = "USER";
+export const SPOTIFY_QUERY = "SPOTIFY_QUERY";
+export const CURRENT_TRACK = "CURRENT_TRACK";
+export const ADD_TO_PLAYLIST = "ADD_TO_PLAYLIST";
+export const REMOVE_FROM_PLAYLIST = "REMOVE_FROM_PLAYLIST";
+export const RESET_PLAYLIST = "RESET_PLAYLIST";
+export const CURRENT_PLAYLIST = "CURRENT_PLAYLIST";
+export const IS_PLAYING = "IS_PLAYING";
+export const FIRST_VISIT = "FIRST_VISIT";

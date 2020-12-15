@@ -1,0 +1,14 @@
+<svg width="620" height="127" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="129" width="622" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" font-weight="bold" transform="matrix(4.97505 0 0 5.38482 -2346.39 -1148.49)" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_1" y="233.24456" x="472.02508" stroke-width="0" fill="#1ed760">Spotitunes</text>
+ </g>
+</svg>
